@@ -3,7 +3,7 @@
 AI Rhino Assistant is an intelligent chatbot that seamlessly integrates with **Rhinoceros 3D**. It allows users to interact with Rhino using natural language commands, leveraging the power of the **DeepSeeker R1 model** through API calls. Simplify complex workflows, automate repetitive tasks, and bring AI-driven creativity directly into your design process!
 
 ## 🚀 Features
-![Demo GIF](IMG_6190.gif)
+![Demo GIF](https://youtu.be/JegjmLcmvIg)
 
 - **Natural Language Commands**: Perform tasks in Rhino just by chatting with the assistant.
 - **Powered by DeepSeeker R1**: Uses advanced AI capabilities for understanding and executing user requests.
